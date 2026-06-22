@@ -17,7 +17,7 @@ in the *E. coli* fatty acid biosynthesis pathway.
 
 - **Methods:** Sobol indices and Borgonovo sensitivity analysis for variance-based
   parameter ranking under uncertainty
-- **Tools:** Python (SALib, UQLab)
+- **Tools:** Python (UQLab)
 - **Scope:** Uncertainty quantification across kinetic parameter space to identify
   rate-limiting steps under variable fermentation conditions
 
